@@ -1,0 +1,26 @@
+E:\ITStep Программирование 16.12\C#\HomeWork WF C#\WF_Exam\WF_Exam\obj\Debug\WF_Exam.csprojAssemblyReference.cache
+E:\ITStep Программирование 16.12\C#\HomeWork WF C#\WF_Exam\WF_Exam\obj\Debug\WF_Exam.Form1.resources
+E:\ITStep Программирование 16.12\C#\HomeWork WF C#\WF_Exam\WF_Exam\obj\Debug\WF_Exam.Properties.Resources.resources
+E:\ITStep Программирование 16.12\C#\HomeWork WF C#\WF_Exam\WF_Exam\obj\Debug\WF_Exam.csproj.GenerateResource.cache
+E:\ITStep Программирование 16.12\C#\HomeWork WF C#\WF_Exam\WF_Exam\obj\Debug\WF_Exam.csproj.CoreCompileInputs.cache
+E:\ITStep Программирование 16.12\C#\HomeWork WF C#\WF_Exam\WF_Exam\bin\Debug\WF_Exam.exe.config
+E:\ITStep Программирование 16.12\C#\HomeWork WF C#\WF_Exam\WF_Exam\bin\Debug\WF_Exam.exe
+E:\ITStep Программирование 16.12\C#\HomeWork WF C#\WF_Exam\WF_Exam\bin\Debug\WF_Exam.pdb
+E:\ITStep Программирование 16.12\C#\HomeWork WF C#\WF_Exam\WF_Exam\obj\Debug\WF_Exam.exe
+E:\ITStep Программирование 16.12\C#\HomeWork WF C#\WF_Exam\WF_Exam\obj\Debug\WF_Exam.pdb
+E:\ITStep Программирование 16.12\C#\HomeWork WF C#\WF_Exam\WF_Exam\obj\Debug\WF_Exam.Form2.resources
+E:\ITStep Программирование 16.12\C#\HomeWork WF C#\WF_Exam\WF_Exam\obj\Debug\WF_Exam.Form3.resources
+E:\ITStep Программирование 16.12\C#\HomeWork WF C#\WF_Exam\WF_Exam\obj\Debug\WF_Exam.Form4.resources
+D:\Анна\ITStep Программирование\C#\HomeWork WF C#\WF_Exam\WF_Exam\bin\Debug\WF_Exam.exe.config
+D:\Анна\ITStep Программирование\C#\HomeWork WF C#\WF_Exam\WF_Exam\bin\Debug\WF_Exam.exe
+D:\Анна\ITStep Программирование\C#\HomeWork WF C#\WF_Exam\WF_Exam\bin\Debug\WF_Exam.pdb
+D:\Анна\ITStep Программирование\C#\HomeWork WF C#\WF_Exam\WF_Exam\obj\Debug\WF_Exam.Form1.resources
+D:\Анна\ITStep Программирование\C#\HomeWork WF C#\WF_Exam\WF_Exam\obj\Debug\WF_Exam.Form2.resources
+D:\Анна\ITStep Программирование\C#\HomeWork WF C#\WF_Exam\WF_Exam\obj\Debug\WF_Exam.Form3.resources
+D:\Анна\ITStep Программирование\C#\HomeWork WF C#\WF_Exam\WF_Exam\obj\Debug\WF_Exam.Form4.resources
+D:\Анна\ITStep Программирование\C#\HomeWork WF C#\WF_Exam\WF_Exam\obj\Debug\WF_Exam.Properties.Resources.resources
+D:\Анна\ITStep Программирование\C#\HomeWork WF C#\WF_Exam\WF_Exam\obj\Debug\WF_Exam.csproj.GenerateResource.cache
+D:\Анна\ITStep Программирование\C#\HomeWork WF C#\WF_Exam\WF_Exam\obj\Debug\WF_Exam.csproj.CoreCompileInputs.cache
+D:\Анна\ITStep Программирование\C#\HomeWork WF C#\WF_Exam\WF_Exam\obj\Debug\WF_Exam.exe
+D:\Анна\ITStep Программирование\C#\HomeWork WF C#\WF_Exam\WF_Exam\obj\Debug\WF_Exam.pdb
+D:\Анна\ITStep Программирование\C#\HomeWork WF C#\WF_Exam\WF_Exam\obj\Debug\WF_Exam.csproj.AssemblyReference.cache

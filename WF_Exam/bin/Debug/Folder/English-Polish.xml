@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<MyDictionary xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DictionaryType>English-Polish</DictionaryType>
+  <Words>
+    <DictionaryWord>
+      <Word>food</Word>
+      <Translation>
+        <string>jedzenie</string>
+        <string>zywnosc</string>
+      </Translation>
+    </DictionaryWord>
+    <DictionaryWord>
+      <Word>flu</Word>
+      <Translation>
+        <string>grypa</string>
+      </Translation>
+    </DictionaryWord>
+    <DictionaryWord>
+      <Word>ever</Word>
+      <Translation>
+        <string>kiedy</string>
+        <string>jak zawsze</string>
+      </Translation>
+    </DictionaryWord>
+    <DictionaryWord>
+      <Word>event</Word>
+      <Translation>
+        <string>wydarzenie</string>
+        <string>impreza</string>
+      </Translation>
+    </DictionaryWord>
+    <DictionaryWord>
+      <Word>disko</Word>
+      <Translation>
+        <string>dyskoteka</string>
+      </Translation>
+    </DictionaryWord>
+    <DictionaryWord>
+      <Word>ethics</Word>
+      <Translation>
+        <string>etyka</string>
+        <string>moralny</string>
+      </Translation>
+    </DictionaryWord>
+    <DictionaryWord>
+      <Word>kaka</Word>
+      <Translation>
+        <string>galon</string>
+        <string>warkosz</string>
+        <string>plecionka</string>
+        <string />
+      </Translation>
+    </DictionaryWord>
+    <DictionaryWord>
+      <Word>advent</Word>
+      <Translation>
+        <string>nastanie</string>
+      </Translation>
+    </DictionaryWord>
+    <DictionaryWord>
+      <Word>afloat</Word>
+      <Translation>
+        <string>na wodzie</string>
+        <string>w dobrej formie</string>
+      </Translation>
+    </DictionaryWord>
+    <DictionaryWord>
+      <Word>affair</Word>
+      <Translation>
+        <string>sprawa</string>
+      </Translation>
+    </DictionaryWord>
+    <DictionaryWord>
+      <Word>affected</Word>
+      <Translation>
+        <string>sztuczny</string>
+        <string>afektowany</string>
+      </Translation>
+    </DictionaryWord>
+    <DictionaryWord>
+      <Word />
+      <Translation>
+        <string />
+      </Translation>
+    </DictionaryWord>
+  </Words>
+</MyDictionary>
